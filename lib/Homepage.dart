@@ -172,7 +172,7 @@ class _HomePageState extends State<HomePage> {
     var headers = {
       'Content-Type': 'application/json',
       'Authorization':
-          'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6IjI0NGEwZjk0LTNjMWUtNDQyNC1iMTRmLTI0YzFhNzFlMDQyMyIsImlhdCI6MTY2NjY3OTgyMSwic3ViIjoiZGV2ZWxvcGVyLzAwZjkwODE0LWNjZDEtYmJiNC1hOGRlLTJmNTY1OGVmYTFlNCIsInNjb3BlcyI6WyJjbGFzaCJdLCJsaW1pdHMiOlt7InRpZXIiOiJkZXZlbG9wZXIvc2lsdmVyIiwidHlwZSI6InRocm90dGxpbmcifSx7ImNpZHJzIjpbIjEyMy4xNzYuMzYuMjQyIl0sInR5cGUiOiJjbGllbnQifV19.5knOMWf1LKYM-0NJAJ7p6dDumi5w2WTfjUaVLxqhnCyOJT7PbFWM1NU9vkEHeUur52cUKxmSLs1f75303QdR5w'
+          ''
     };
 
     var response = await get(
